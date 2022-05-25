@@ -6,7 +6,7 @@
 
 **ID :** `18P2847`
 
-```
-Some edit as a code
-const foo = "foo"
+```js
+//Some edit as a code
+const foo = "foo";
 ```
