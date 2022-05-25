@@ -8,5 +8,8 @@
 
 ```js
 //Some edit as a code
-const foo = "foo";
+const myInfo = {
+  name: "Mahmoud Maged",
+  ID: "18P2847",
+};
 ```
